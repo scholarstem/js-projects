@@ -3,3 +3,7 @@ Games:
 
 Animations
 - Ball bouncing game
+
+Simulations
+- Gravity changing game
+
