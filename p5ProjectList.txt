@@ -1,9 +1,5 @@
 Games:
-- Fruit Nukem
+- Press space to change color
 
 Animations
-- Ball bouncing game
-
-Simulations
-- Gravity changing game
-
+- Ball moving across the screen
