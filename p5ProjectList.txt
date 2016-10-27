@@ -1,5 +1,6 @@
 Games:
 - Fruit Nukem
+- Animating text adventure game
 
 Animations
 - Ball bouncing game
